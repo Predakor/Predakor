@@ -1,18 +1,15 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+
+<h1 align="center">👋 Hey there 👋</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
 
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">I'm Patryk from Poland<br><br>- 🔭 I’m on my way to becoming a professional front-end developer<br>- 📚 I'm currently learning React, Redux, Next.js and many more<br>- ⚡ In my free time I like to skate and expand my knowledge</p>
+ <h3 align="center">I'm Patryk from Poland</h3><br/>
+   <p align="center">
+    🔭 I’m on my way to becoming a professional front-end developer<br>- 
+    📚 I'm currently learning React, Redux, Next.js and many more<br>- 
+    ⚡ In my free time I like to skate and expand my knowledge
+  </p>
 
 ###
 
